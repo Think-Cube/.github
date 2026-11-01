@@ -2,36 +2,48 @@
 
 # Think-Cube
 
-**Cloud Technology Company – platform engineering, DevSecOps and hands-on training**
+**Cloud Technology Company – multi-cloud platform engineering, DevSecOps and hands-on training**
 
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Podman](https://img.shields.io/badge/Podman-BA0C2F?style=for-the-badge&logo=podman&logoColor=white)](https://podman.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Packer](https://img.shields.io/badge/Packer-1B58B8?style=for-the-badge&logo=packer&logoColor=white)](https://www.packer.io/)
 [![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)](https://www.vagrantup.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-7B65C7?style=for-the-badge&logo=vault&logoColor=white)](https://www.vaultproject.io/)
 [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)](https://dev.azure.com/)
 [![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![Sonatype Nexus](https://img.shields.io/badge/Sonatype%20Nexus-0E8A16?style=for-the-badge&logo=sonatype&logoColor=white)](https://www.sonatype.com/nexus-repository-oss)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch)
+[![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)](https://www.redhat.com/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://microsoft.com/powershell)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 </div>
 
-Think-Cube helps engineering teams build, secure and operate cloud platforms on **Microsoft Azure**, with Kubernetes, Infrastructure as Code and automated delivery at the core. This organization hosts the open-source building blocks we use in client projects and the labs from our technical trainings.
+Think-Cube helps engineering teams design, build, secure and operate cloud platforms on **Microsoft Azure, AWS and Google Cloud** – with Kubernetes, Infrastructure as Code and automated delivery at the core. This organization hosts the open-source building blocks we use in client projects and the labs from our technical trainings.
 
 ## What we do
 
 | | |
 |---|---|
-| **Platform engineering** | Azure landing zones and governance, AKS platforms, Infrastructure as Code with Terraform, Bicep and Packer |
-| **DevOps & delivery** | CI/CD with Azure DevOps and Jenkins, reusable pipeline templates, self-hosted build agents, GitOps |
-| **Security** | Web server hardening, web application firewalls, security testing aligned with OWASP |
+| **Cloud platforms** | Landing zones and governance on Azure, AWS and GCP; managed Kubernetes (AKS, EKS, GKE) and on-premises clusters |
+| **Infrastructure as Code** | Terraform modules, Packer images, Vagrant environments, configuration management with Ansible |
+| **DevOps & delivery** | CI/CD with Azure DevOps, Jenkins and GitHub Actions, artifact management with Nexus, GitOps, self-hosted build agents |
+| **Observability & operations** | Monitoring with Grafana, logging with Elasticsearch, messaging with RabbitMQ, operations automation in Bash, PowerShell and Python |
+| **Security** | Secrets management with HashiCorp Vault, web server hardening, web application firewalls, security testing aligned with OWASP |
+| **Linux & Windows** | Ubuntu, Red Hat and Windows Server platforms, container runtimes Docker and Podman |
 | **Training** | Practical, lab-based courses for engineering teams – every lab is open source |
 
 ## Repositories
