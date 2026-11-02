@@ -104,9 +104,9 @@ Think-Cube helps engineering teams design, build, secure and operate cloud platf
 
 Hands-on labs from our courses. Each lab runs in an isolated environment, builds on one realistic scenario and is verified against current tool versions.
 
-| Course | Topics | Status |
+| Course | Topics | Labs |
 |---|---|---|
-| Kubernetes on Microsoft Azure (AKS) | cluster design, Gateway API, Entra ID, workload identity, storage, monitoring, GitOps, CI/CD | coming soon |
+| Kubernetes on Microsoft Azure (AKS) | cluster design, Gateway API, Entra ID, workload identity, storage, monitoring, GitOps, CI/CD | [aks-labs](https://github.com/Think-Cube/aks-labs) |
 | NGINX in Practice | reverse proxy, load balancing, caching, TLS & HTTP/3, rate limiting, WAF | coming soon |
 | SonarQube for DevOps | quality gates, scanners, coverage, Jenkins / GitHub / Azure DevOps integration | coming soon |
 
