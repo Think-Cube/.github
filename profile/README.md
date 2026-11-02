@@ -44,7 +44,7 @@ Think-Cube helps engineering teams design, build, secure and operate cloud platf
 | **Observability & operations** | Monitoring with Grafana, logging with Elasticsearch, messaging with RabbitMQ, operations automation in Bash, PowerShell and Python |
 | **Security** | Secrets management with HashiCorp Vault, web server hardening, web application firewalls, security testing aligned with OWASP |
 | **Linux & Windows** | Ubuntu, Red Hat and Windows Server platforms, container runtimes Docker and Podman |
-| **Training** | Practical, lab-based courses for engineering teams – every lab is open source |
+| **Training** | Practical, lab-based courses for engineering teams – every lab is open source, see the [training catalog](https://trainings.thinkcube.dev/) |
 
 ## Repositories
 
@@ -100,15 +100,17 @@ Think-Cube helps engineering teams design, build, secure and operate cloud platf
 
 [awesome-security](https://github.com/Think-Cube/awesome-security) · [awesome-sysops](https://github.com/Think-Cube/awesome-sysops) · [python-awesome](https://github.com/Think-Cube/python-awesome) · [ecommerce-awesome](https://github.com/Think-Cube/ecommerce-awesome)
 
-## Training labs
+## Trainings
 
-Hands-on labs from our courses. Each lab runs in an isolated environment, builds on one realistic scenario and is verified against current tool versions.
+Hands-on courses for engineering teams. Each lab runs in an isolated environment, builds on one realistic scenario and is verified against current tool versions. Agendas and all lab instructions are published in the **[training catalog](https://trainings.thinkcube.dev/)**.
 
-| Course | Topics | Labs |
-|---|---|---|
-| Kubernetes on Microsoft Azure (AKS) | cluster design, Gateway API, Entra ID, workload identity, storage, monitoring, GitOps, CI/CD | [aks-labs](https://github.com/Think-Cube/aks-labs) |
-| NGINX in Practice | reverse proxy, load balancing, caching, TLS & HTTP/3, rate limiting, WAF | coming soon |
-| SonarQube for DevOps | quality gates, scanners, coverage, Jenkins / GitHub / Azure DevOps integration | coming soon |
+| Course | Duration | Topics | Labs |
+|---|---|---|---|
+| [Kubernetes on Microsoft Azure (AKS)](https://trainings.thinkcube.dev/courses/aks/) | 3 days | cluster design, Gateway API, Entra ID, workload identity, storage, monitoring, GitOps, CI/CD | [aks-labs](https://github.com/Think-Cube/aks-labs) |
+| [NGINX in Practice](https://trainings.thinkcube.dev/courses/nginx/) | 2 days | reverse proxy, load balancing, caching, TLS & HTTP/3, rate limiting, WAF | [nginx-labs](https://github.com/Think-Cube/nginx-labs) |
+| SonarQube for DevOps | 2 days | quality gates, scanners, coverage, Jenkins / GitHub / Azure DevOps integration | coming soon |
+
+[![Training catalog](https://img.shields.io/badge/Training%20catalog-trainings.thinkcube.dev-0A66C2?style=for-the-badge&logo=materialformkdocs&logoColor=white)](https://trainings.thinkcube.dev/)
 
 Interested in a training for your team? Get in touch via [thinkcube.dev](https://thinkcube.dev).
 
@@ -123,6 +125,6 @@ Interested in a training for your team? Get in touch via [thinkcube.dev](https:/
 
 <div align="center">
 
-[thinkcube.dev](https://thinkcube.dev) · © Think-Cube
+[thinkcube.dev](https://thinkcube.dev) · [trainings.thinkcube.dev](https://trainings.thinkcube.dev/) · © Think-Cube
 
 </div>
