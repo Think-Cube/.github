@@ -109,6 +109,7 @@ Hands-on courses for engineering teams. Each lab runs in an isolated environment
 | Course | Duration | Topics | Labs |
 |---|---|---|---|
 | [Kubernetes on Microsoft Azure (AKS)](https://trainings.thinkcube.dev/courses/aks/) | 3 days | cluster design, Gateway API, Entra ID, workload identity, storage, monitoring, GitOps, CI/CD | [aks-labs](https://github.com/Think-Cube/aks-labs) |
+| [Terraform on Microsoft Azure](https://trainings.thinkcube.dev/courses/terraform/) | 2 days | azurerm 5 & AzAPI 2, remote state, modules, import & drift, terraform test, ephemeral secrets, OIDC pipelines | [terraform-azure-labs](https://github.com/Think-Cube/terraform-azure-labs) |
 | [NGINX in Practice](https://trainings.thinkcube.dev/courses/nginx/) | 2 days | reverse proxy, load balancing, caching, TLS & HTTP/3, rate limiting, WAF | [nginx-labs](https://github.com/Think-Cube/nginx-labs) |
 | [SonarQube for DevOps](https://trainings.thinkcube.dev/courses/sonarqube/) | 2 days | quality gates, scanners, coverage, Jenkins / GitHub / Azure DevOps integration | [sonarqube-labs](https://github.com/Think-Cube/sonarqube-labs) |
 | [GitOps with Argo CD](https://trainings.thinkcube.dev/courses/argocd/) | 2 days | Argo CD 3.5, Helm & Kustomize, RBAC, sealed secrets, ApplicationSets, multi-cluster, Argo Rollouts | [argocd-labs](https://github.com/Think-Cube/argocd-labs) |
