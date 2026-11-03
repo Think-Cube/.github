@@ -9,6 +9,7 @@
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/)
+[![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Podman](https://img.shields.io/badge/Podman-BA0C2F?style=for-the-badge&logo=podman&logoColor=white)](https://podman.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
@@ -18,6 +19,7 @@
 [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)](https://dev.azure.com/)
 [![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![Sonatype Nexus](https://img.shields.io/badge/Sonatype%20Nexus-0E8A16?style=for-the-badge&logo=sonatype&logoColor=white)](https://www.sonatype.com/nexus-repository-oss)
+[![SonarQube](https://img.shields.io/badge/SonarQube-126ED3?style=for-the-badge&logo=sonarqubeserver&logoColor=white)](https://www.sonarsource.com/products/sonarqube/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch)
 [![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
@@ -108,7 +110,8 @@ Hands-on courses for engineering teams. Each lab runs in an isolated environment
 |---|---|---|---|
 | [Kubernetes on Microsoft Azure (AKS)](https://trainings.thinkcube.dev/courses/aks/) | 3 days | cluster design, Gateway API, Entra ID, workload identity, storage, monitoring, GitOps, CI/CD | [aks-labs](https://github.com/Think-Cube/aks-labs) |
 | [NGINX in Practice](https://trainings.thinkcube.dev/courses/nginx/) | 2 days | reverse proxy, load balancing, caching, TLS & HTTP/3, rate limiting, WAF | [nginx-labs](https://github.com/Think-Cube/nginx-labs) |
-| SonarQube for DevOps | 2 days | quality gates, scanners, coverage, Jenkins / GitHub / Azure DevOps integration | coming soon |
+| [SonarQube for DevOps](https://trainings.thinkcube.dev/courses/sonarqube/) | 2 days | quality gates, scanners, coverage, Jenkins / GitHub / Azure DevOps integration | [sonarqube-labs](https://github.com/Think-Cube/sonarqube-labs) |
+| [GitOps with Argo CD](https://trainings.thinkcube.dev/courses/argocd/) | 2 days | Argo CD 3.5, Helm & Kustomize, RBAC, sealed secrets, ApplicationSets, multi-cluster, Argo Rollouts | [argocd-labs](https://github.com/Think-Cube/argocd-labs) |
 
 [![Training catalog](https://img.shields.io/badge/Training%20catalog-trainings.thinkcube.dev-0A66C2?style=for-the-badge&logo=materialformkdocs&logoColor=white)](https://trainings.thinkcube.dev/)
 
